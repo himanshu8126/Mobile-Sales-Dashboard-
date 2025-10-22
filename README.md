@@ -79,6 +79,10 @@ Revealed seasonal sales trends to enhance inventory planning
 
 Improved decision-making with real-time visibility of key performance indicators
 
+**Screenshot / Demos**
+Dashboard: (https://github.com/himanshu8126/Mobile-Sales-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.JPG)
+
+
 ❓ **Key Questions Answered**
 
 Which regions generate the highest mobile sales?
