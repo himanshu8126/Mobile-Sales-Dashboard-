@@ -1,5 +1,4 @@
 📊 #Mobile Sales Performance Dashboard
-##📝 Project Overview
 
 The Mobile Sales Performance Dashboard provides a comprehensive view of mobile sales across different regions, products, and time periods.
 Built in Power BI, this dashboard helps management and stakeholders analyze sales trends, identify top-performing products, and make data-driven decisions to boost overall revenue.
