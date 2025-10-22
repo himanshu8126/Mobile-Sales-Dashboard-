@@ -1,4 +1,4 @@
-#📊 Mobile Sales Performance Dashboard
+📊 #Mobile Sales Performance Dashboard
 ##📝 Project Overview
 
 The Mobile Sales Performance Dashboard provides a comprehensive view of mobile sales across different regions, products, and time periods.
